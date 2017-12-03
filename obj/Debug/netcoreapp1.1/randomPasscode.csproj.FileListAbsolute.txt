@@ -1,0 +1,9 @@
+/Users/bkila/Desktop/randomPasscode/bin/Debug/netcoreapp1.1/randomPasscode.deps.json
+/Users/bkila/Desktop/randomPasscode/bin/Debug/netcoreapp1.1/randomPasscode.runtimeconfig.json
+/Users/bkila/Desktop/randomPasscode/bin/Debug/netcoreapp1.1/randomPasscode.runtimeconfig.dev.json
+/Users/bkila/Desktop/randomPasscode/bin/Debug/netcoreapp1.1/randomPasscode.dll
+/Users/bkila/Desktop/randomPasscode/bin/Debug/netcoreapp1.1/randomPasscode.pdb
+/Users/bkila/Desktop/randomPasscode/obj/Debug/netcoreapp1.1/randomPasscode.csproj.CoreCompileInputs.cache
+/Users/bkila/Desktop/randomPasscode/obj/Debug/netcoreapp1.1/randomPasscode.AssemblyInfo.cs
+/Users/bkila/Desktop/randomPasscode/obj/Debug/netcoreapp1.1/randomPasscode.dll
+/Users/bkila/Desktop/randomPasscode/obj/Debug/netcoreapp1.1/randomPasscode.pdb
